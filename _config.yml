@@ -6,6 +6,7 @@ permalink: /:title/
 year: 2020
 description: Sarv Siksha Abhiyan
 url: https://ssa.rajniti.online
+logo: "/assets/images/ssa-logo.png"
 encoding: UTF-8
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
