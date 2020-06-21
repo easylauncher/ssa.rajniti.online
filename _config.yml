@@ -25,6 +25,11 @@ aux_links:
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020-2023. Managed by an <a href=\"https://easylauncher.net\">EasyLauncher.net .</a>"
 
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+# Supports true (default) or false/nil
+heading_anchors: true
+
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
     
