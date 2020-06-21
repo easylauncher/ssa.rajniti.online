@@ -21,3 +21,6 @@ endings: all
 startings: []
 blanklines: false
 profile: false
+
+# Google Analytics Tracking
+ga_tracking: UA-139531653-4
