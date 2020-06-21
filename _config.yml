@@ -18,12 +18,14 @@ search_tokenizer_separator: /[\s/]+/
 
 # Aux links for the upper right navigation
 aux_links:
-  "Initiative By":
+  "Initiative By rajniti.online":
     - "//rajniti.online"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020-2023. Managed by an <a href=\"https://easylauncher.net\">EasyLauncher.net .</a>"
 
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
     
 paginate: 6
 paginate_path: /page/:num/
