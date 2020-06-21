@@ -26,7 +26,9 @@ aux_links:
 credits_content: "Used Just the Docs"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020-2023. Managed by an <a href=\"https://easylauncher.net\">EasyLauncher.net .</a>"
+footer_content: "Copyright &copy; 2020-2023. Managed by an <a href=\"https://easylauncher.net\" target=\"_blank\" rel=\"noopener noreferrer\">EasyLauncher.net .</a>"
+<a href="#" target="_blank" rel="noopener noreferrer">Link</a>
+
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
