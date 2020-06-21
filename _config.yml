@@ -42,6 +42,7 @@ paginate_path: /page/:num/
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 compress_html:
 clippings: all
