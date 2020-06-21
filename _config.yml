@@ -1,1 +1,12 @@
 remote_theme: pmarsceill/just-the-docs
+
+title: ssa.rajniti.online
+highlighter: rouge
+permalink: /:title/
+year: 2020
+description: Sarv Siksha Abhiyan
+url: https://ssa.rajniti.online
+encoding: UTF-8
+
+paginate: 6
+paginate_path: /page/:num/
