@@ -83,8 +83,8 @@ permalink: /
 
 ### संपर्क करें
 
-**वेबसाइट** ssa.rajniti.online
-**लोकेशन** लखनऊ
-**ईमेल** RAJNITI.ON@GMAIL.COM
-**टेलीग्राम और व्हाट्सनंबर**
+- **वेबसाइट** ssa.rajniti.online
+- **लोकेशन** लखनऊ
+- **ईमेल** RAJNITI.ON@GMAIL.COM
+- **टेलीग्राम और व्हाट्सनंबर**
 
