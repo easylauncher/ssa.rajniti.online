@@ -17,8 +17,6 @@ permalink: /
 
 ## सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
 
-[रजिस्टर करें](https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank" rel="noopener noreferrer">रजिस्टर करें</a>
 
 
@@ -39,7 +37,7 @@ permalink: /
 | आपकी जरूरतों और क्षमताओं के अनुरूप SSA कोच आपको पर्सनल ट्रेनिंग देगा. SSA आपके लिए खोलता है असीमित संभावनाओं के द्वार! | आनलाइन कक्षाएं जहां आप अपने शिक्षक को लाइव देख सकते हैं. पत्रकारिता, सूचना और संचार की बुनियादी बातों को सीख सकते हैं. आपके पास है संचार और सूचनाओं को समझने का शानदार मौका!   | प्रोजेक्ट और असाइंनमेंट के माध्यम से संचार तंत्र को समझने और बुनियादी बातों को सीखने का मौका.  |
 
 
-[रजिस्टर करें](https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank" rel="noopener noreferrer">रजिस्टर करें</a>
 
 
 ### संपर्क करें
