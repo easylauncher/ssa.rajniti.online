@@ -1,8 +1,8 @@
 ---
 layout: default
-title: सर्व सक्षम अभियान
+title: पाठ्यक्रम संरचना
 nav_order: 1
-description: "सर्व सक्षम अभियान"
+description: "सर्व सक्षम अभियान, पाठ्यक्रम संरचना"
 permalink: /
 ---
 
