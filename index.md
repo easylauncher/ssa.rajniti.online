@@ -19,6 +19,8 @@ permalink: /
 
 [रजिस्टर करें](https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank" rel="noopener noreferrer">रजिस्टर करें</a>
+
 
 इस गहन ऑनलाइन शिक्षण कार्यक्रम के साथ अपने पत्रकारीय और भाषा कौशल को परिवर्तित करें. वार्म-अप अभ्यास, अभ्यास सेट, वीडियो पाठ्यक्रम और ऑनलाइन स्ट्रीमिंग के साथ अपने संचार को स्पष्ट और प्रभावी बनाएं.
 
