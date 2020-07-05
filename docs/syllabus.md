@@ -1,9 +1,9 @@
 ---
 layout: default
 title: पाठ्यक्रम संरचना
-nav_order: 1
+nav_order: 3
 description: "सर्व सक्षम अभियान, पाठ्यक्रम संरचना"
-permalink: /
+permalink: /syllabus
 ---
 
 # सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम

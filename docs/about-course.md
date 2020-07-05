@@ -1,9 +1,9 @@
 ---
 layout: default
 title: पाठ्यक्रम का उद्देश्य
-nav_order: 1
+nav_order: 2
 description: "सर्व सक्षम अभियान, पाठ्यक्रम का उद्देश्य"
-permalink: /
+permalink: /about-course
 ---
 
 # सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
