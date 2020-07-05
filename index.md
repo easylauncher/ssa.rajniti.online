@@ -9,8 +9,9 @@ permalink: /
 # सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
 {: .fs-9 }
 
-संवाद से सफलता
-{: .fs-6 .fw-300 }
+
+![alt text](/assets/images/ssa-banner-01.png "सर्व सक्षम अभियान")
+
 
 ---
 
