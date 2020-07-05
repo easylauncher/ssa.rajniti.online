@@ -18,8 +18,7 @@ permalink: /topics/communication-and-mass-communication
 ## Communication and Mass Communication
 
 
-[![Online Class](https://img.youtube.com/vi/0k9vie0dmpU/0.jpg)](https://www.youtube.com/watch?v=0k9vie0dmpU)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0k9vie0dmpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### आप क्या सीखेंगे?
