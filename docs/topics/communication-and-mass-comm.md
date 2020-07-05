@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Communication and Mass Communication
-nav_order: 2
+nav_order: 1
 description: "सर्व सक्षम अभियान, Communication and Mass Communication"
 parent: विषय
 permalink: /topics/communication-and-mass-communication
