@@ -1,8 +1,9 @@
 ---
 layout: default
 title: विषय
-nav_order: 2
+nav_order: 4
 description: "सर्व सक्षम अभियान, विषय"
+has_children: true
 permalink: /topics
 ---
 
