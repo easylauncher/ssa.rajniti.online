@@ -4,7 +4,7 @@ title: Advertising and Camera
 nav_order: 3
 description: "सर्व सक्षम अभियान, Advertising and Camera"
 parent: विषय
-permalink: /topics/journalism
+permalink: /topics/advertising-and-camera
 ---
 
 # सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
