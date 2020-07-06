@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Students Of The Week
-nav_order: 4
+nav_order: 5
 description: "सर्व सक्षम अभियान, Students Of The Week"
 has_children: true
 permalink: /students-of-the-week
