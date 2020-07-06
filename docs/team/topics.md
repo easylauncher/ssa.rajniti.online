@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Students Of The Week
-nav_order: 6
-description: "सर्व सक्षम अभियान, Students Of The Week"
+title: Team
+nav_order: 5
+description: "सर्व सक्षम अभियान, Team"
 has_children: true
-permalink: /students-of-the-week
+permalink: /team
 ---
 
 # सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
@@ -15,5 +15,5 @@ permalink: /students-of-the-week
 
 ---
 
-## Students Of The Week
+## Team
 
