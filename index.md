@@ -51,9 +51,9 @@ permalink: /
 
 ## प्रायोजक
 
-<img src="/assets/images/logo-rajniti-online.png" />
-<img src="/assets/images/logo-easylauncher.png" />
-<img src="/assets/images/logo-apyl.jpg" />
+<a href="https://rajniti.online/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/logo-rajniti-online.png" /></a>
+<a href="https://easylauncher.net/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/logo-easylauncher.png" /></a>
+<a href="https://apyl.com/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/logo-apyl.jpg" /></a>
 
 
 ### संपर्क करें
