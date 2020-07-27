@@ -51,7 +51,10 @@ permalink: /
 
 ## प्रायोजक
 
-<img src="/assets/images/rajniti-online-logo.png" />
+<img src="/assets/images/logo-rajniti-online.png" />
+<img src="/assets/images/logo-easylauncher.png" />
+<img src="/assets/images/logo-apyl.jpg" />
+
 
 ### संपर्क करें
 
