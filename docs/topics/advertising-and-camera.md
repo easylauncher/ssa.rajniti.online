@@ -17,8 +17,7 @@ permalink: /topics/advertising-and-camera
 
 ## एडवरटाइजिंग एवं कैमरा
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jsp85NiRxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PpjXOx758_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### आप क्या सीखेंगे?
