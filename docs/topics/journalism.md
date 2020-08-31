@@ -18,7 +18,7 @@ permalink: /topics/journalism
 ## जर्नलिज्म (ब्राडकास्ट जर्नलिज्म ( ऑउटपुर, इनपुट), प्रिंट जर्नलिज्म, डिजिटल जर्नलिज्म, एंकरिंग, रिपोर्टिंग, एडिटिंग)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUCD0HAaMAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRs-UiyrG6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### आप क्या सीखेंगे?
